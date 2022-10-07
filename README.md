@@ -1,7 +1,7 @@
 # Music-Player-project
 
 You can see the website live at:-
-https://music-player-project.vercel.app/
+https://music-player-cnproject.vercel.app/
 
 Screenshots of the music player :-
 
